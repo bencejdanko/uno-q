@@ -1,0 +1,3 @@
+name: Bridge LED
+icon: 💡
+description: Python toggles an MCU LED over the Bridge (RPC); sketch logic lives in plain C++.

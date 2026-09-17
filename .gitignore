@@ -1,0 +1,15 @@
+# Python environments and caches
+.venv*/
+__pycache__/
+
+# Model weights and exports (regenerate with bench/export_yolo.py)
+*.pt
+*.pte
+*.onnx
+bench/models/
+bench/yolo11n_executorch_model/
+bench/wheels-aarch64/
+
+# App build artifacts and logs
+.cache/
+*.log
