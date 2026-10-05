@@ -1,0 +1,3 @@
+name: Sensor Test
+icon: 🧭
+description: Tests MPU6050 gyro and USB webcam access.

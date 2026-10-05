@@ -13,3 +13,6 @@ bench/wheels-aarch64/
 # App build artifacts and logs
 .cache/
 *.log
+
+# ssh password
+.ssh_pass

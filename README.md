@@ -20,5 +20,11 @@ adb shell
 Alternatively, you can SSH in:
 
 ```
-ssh arduino@gatos.local # password is losgatos
+ssh arduino@gatos.local
 ```
+
+## Hardware & Sensors Documentation
+
+- [MPU6050 Pinout & Wiring](MPU6050.md)
+- [Peripherals Access Guide (MPU6050 Gyro & USB Webcam)](PERIPHERALS.md)
+- [Sensor Test Demo Application](sensor-test/)
