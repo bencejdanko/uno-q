@@ -1,3 +1,7 @@
+# Uno Q Hardware IEEE SEC 2026 submission
+
+<img width="510" height="517" alt="Untitled drawing" src="https://github.com/user-attachments/assets/35d2633f-0032-4fef-8195-ccfd23d43ef7" />
+
 # Instructions
 
 ## Running App Lab Examples
